@@ -1,9 +1,9 @@
 import React from 'react';
-import Navbar from './component/Navbar';
-import Home from './component/pages/Home';
-import Products from './component/pages/Products';
-import Services from './component/pages/Services';
-import SignUp from './component/pages/SignUp';
+import Navbar from './components/Navbar';
+import Home from './components/pages/Home';
+import Products from './components/pages/Products';
+import Services from './components/pages/Services';
+import SignUp from './components/pages/SignUp';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 
